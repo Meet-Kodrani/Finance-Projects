@@ -1,2 +1,1 @@
-# Finance-Projects
-This Repo contains few projects that I made related to Finance and Economics
+# ML_Techniques_in_Algo_Trading

@@ -1,1 +1,1 @@
-# ML_Techniques_in_Algo_Trading
+# ML_Strategies_in_Algo_Trading
